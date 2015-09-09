@@ -1,5 +1,4 @@
 <?php
-require_once(__DIR__.'/../../DBColumn.php');
 
 class DBColumnTest extends \PHPUnit_Framework_TestCase
 {

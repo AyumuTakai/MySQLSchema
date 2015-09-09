@@ -1,5 +1,4 @@
 <?php
-require_once(__DIR__.'/../../DBTable.php');
 
 class DBTableTest extends \PHPUnit_Framework_TestCase
 {
